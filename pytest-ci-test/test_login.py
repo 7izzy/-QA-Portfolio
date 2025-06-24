@@ -49,3 +49,4 @@ def test_blank_input():
     assert "Your username is invalid!" in result
 
 # 測試是否觸發 GitHub Actions
+# Trigger CI test
